@@ -19,7 +19,7 @@
 
 ### 关于我 · About
 
-我是一名同时持有**中国**与**美国（加利福尼亚州）**执业资格的律师，并具备 USPTO 注册商标律师资格，专注美国联邦知识产权诉讼与跨境电商维权。在联邦巡回上诉法院（CAFC）、第十一巡回上诉法院及全美多个联邦地区法院均有出庭经验。
+我是一名同时持有**中国**与**美国（加利福尼亚州）**执业资格的律师，在 USPTO 从事商标业务，专注美国联邦知识产权诉讼与跨境电商维权。在联邦巡回上诉法院（CAFC）、第十一巡回上诉法院及全美多个联邦地区法院均有出庭经验。
 
 I am a lawyer licensed in both the **People's Republic of China** and the **State of California (USA)**, with trademark practice before the **USPTO**, focused on U.S. federal IP litigation and cross-border e-commerce enforcement, with experience before the Federal Circuit, the Eleventh Circuit, and numerous U.S. district courts.
 
