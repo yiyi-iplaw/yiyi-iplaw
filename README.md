@@ -1,4 +1,4 @@
-# 易伊 · Yi Yi
+<h1 align="center">易伊 · Yi Yi</h1>
 
 <p align="center">
   <b>中国及加州律师 · PRC &amp; California Attorney</b><br/>
