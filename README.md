@@ -70,16 +70,8 @@ I am a lawyer licensed in both the **People's Republic of China** and the **Stat
 
 <table>
   <tr>
-    <td valign="top" width="320">
-
-**微信 · WeChat**
-
-扫码添加 / Scan to connect
-
-    </td>
-    <td valign="top">
-      <img src="./wechat_qr.png" width="200" alt="WeChat QR — 易伊 中国及美国律师"/>
-    </td>
+    <td valign="top" width="320"><b>微信 · WeChat</b><br/>扫码添加 / Scan to connect</td>
+    <td valign="top"><img src="./wechat_qr.png" width="200" alt="WeChat QR — 易伊 中国及美国律师"/></td>
   </tr>
 </table>
 
