@@ -72,7 +72,7 @@ I am a lawyer licensed in both the **People's Republic of China** and the **Stat
 
 **微信 · WeChat** — 扫码添加 / Scan to connect
 
-<img src="./wechat_qr.png" width="180" alt="WeChat QR — 易伊 中国及美国律师"/>
+<p align="center"><img src="./wechat_qr.png" width="180" alt="WeChat QR — 易伊 中国及美国律师"/></p>
 
 <sub>本主页内容仅供一般信息参考，不构成法律意见，亦不构成律师与委托人关系之建立。<br/>
 The content of this profile is for general information only, does not constitute legal advice, and does not create an attorney–client relationship.</sub>
