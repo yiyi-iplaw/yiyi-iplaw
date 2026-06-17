@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/California%20Attorney-Bar%20No.%20353482-1f3a5f?style=flat-square" alt="California Attorney"/>
-  <img src="https://img.shields.io/badge/PRC-Licensed%20Attorney-1f3a5f?style=flat-square" alt="PRC Licensed Attorney"/>
-  <img src="https://img.shields.io/badge/U.S.%20Federal-IP%20Litigation-1f3a5f?style=flat-square" alt="U.S. Federal IP Litigation"/>
-  <img src="https://img.shields.io/badge/Amazon-APEX-1f3a5f?style=flat-square" alt="Amazon APEX"/>
-  <img src="https://img.shields.io/badge/Cross--Border-Disputes-1f3a5f?style=flat-square" alt="Cross-Border Disputes"/>
+  <img src="https://img.shields.io/badge/California%20Attorney-Bar%20No.%20353482-1f3a5f?style=flat-square&labelColor=1f3a5f" alt="California Attorney"/>
+  <img src="https://img.shields.io/badge/PRC-Licensed%20Attorney-1f3a5f?style=flat-square&labelColor=1f3a5f" alt="PRC Licensed Attorney"/>
+  <img src="https://img.shields.io/badge/U.S.%20Federal-IP%20Litigation-1f3a5f?style=flat-square&labelColor=1f3a5f" alt="U.S. Federal IP Litigation"/>
+  <img src="https://img.shields.io/badge/Amazon-APEX-1f3a5f?style=flat-square&labelColor=1f3a5f" alt="Amazon APEX"/>
+  <img src="https://img.shields.io/badge/Cross--Border-Disputes-1f3a5f?style=flat-square&labelColor=1f3a5f" alt="Cross-Border Disputes"/>
 </p>
 <p align="center">
-  <a href="https://www.lawmayus.com"><img src="https://img.shields.io/badge/LawMay%20P.C.-www.lawmayus.com-b5651d?style=flat-square&logo=safari&logoColor=white" alt="LawMay P.C. Website"/></a>
+  <a href="https://www.lawmayus.com"><img src="https://img.shields.io/badge/LawMay%20P.C.-www.lawmayus.com-b5651d?style=flat-square&labelColor=b5651d&logo=safari&logoColor=white" alt="LawMay P.C. Website"/></a>
 </p>
 
 ---
