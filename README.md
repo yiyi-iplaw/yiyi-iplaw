@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/California%20Attorney-Bar%20No.%20353482-1f3a5f?style=flat-square" alt="California Attorney"/>
-  <img src="https://img.shields.io/badge/USPTO-Trademark%20Attorney-1f3a5f?style=flat-square" alt="USPTO Trademark Attorney"/>
+  <img src="https://img.shields.io/badge/USPTO-Trademark%20Practice-1f3a5f?style=flat-square" alt="USPTO Trademark Practice"/>
   <img src="https://img.shields.io/badge/PRC-Licensed%20Lawyer-1f3a5f?style=flat-square" alt="PRC Lawyer"/>
 </p>
 
@@ -21,10 +21,10 @@
 
 我是一名同时持有**中国**与**美国（加利福尼亚州）**执业资格的律师，并具备 USPTO 注册商标律师资格，专注美国联邦知识产权诉讼与跨境电商维权。在联邦巡回上诉法院（CAFC）、第十一巡回上诉法院及全美多个联邦地区法院均有出庭经验。
 
-I am a lawyer licensed in both the **People's Republic of China** and the **State of California (USA)**, registered as a **USPTO Trademark Attorney**, focused on U.S. federal IP litigation and cross-border e-commerce enforcement, with experience before the Federal Circuit, the Eleventh Circuit, and numerous U.S. district courts.
+I am a lawyer licensed in both the **People's Republic of China** and the **State of California (USA)**, with trademark practice before the **USPTO**, focused on U.S. federal IP litigation and cross-border e-commerce enforcement, with experience before the Federal Circuit, the Eleventh Circuit, and numerous U.S. district courts.
 
 - ⚖️ **California Attorney** — State Bar of California, Bar No. 353482
-- ™️ **USPTO Trademark Attorney**
+- ™️ **Trademark Practice before the USPTO**
 - 🇨🇳 **中国执业律师** — 持中国律师执业证
 - 🏛️ Partner, **LawMay P.C.** （深圳 · 加州 / Shenzhen · California）
 - 🎓 Member, **AIPLA** (American Intellectual Property Law Association)
